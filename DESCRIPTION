@@ -1,0 +1,27 @@
+Package: IAIAdata
+Title: Generative AI for unstructured texts vectors
+Version: 0.0.0.9000
+Authors@R:
+  c(
+    person(
+      given  = "Aleix",
+      family = "Barnils",
+      role   = c("aut", "cre"),
+      email  = "aleixbarmon@gmail.com"
+    ),
+    person(
+      given  = "Jordi",
+      family = "Real",
+      role   = "aut",
+      email  = "JRealG@santpau.cat"
+    )
+  )
+Author: Aleix Barnils and Jordi Real, with contributions from Hospital de la Santa Creu i Sant Pau
+Description: The package aims to provide a tool capable of handling unstructured data.
+Depends: R (>= 4.3.0), ellmer (>= 0.1.1), dplyr (>= 1.1.4), R.utils (>= 2.12.3), stringr (>= 1.5.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+URL: https://github.com/Aleixbarmon/IAIAdata.git
+BugReports:
