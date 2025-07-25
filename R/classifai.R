@@ -84,7 +84,7 @@ classifai <- function(
   # dt=dades$rb_sat_p7
   dt_text <- paste(paste(tokens, respuestas_unicas), collapse = "\n")
   promp <- paste0(
-    "Clasifica las siguientes respuestas", dont, " en la categoria que mas se adecue ",
+    "Clasifica las siguientes respuestas", cont, " en la categoria que mas se adecue ",
     promp_cat,
     ".\n I las respuestas a clasificar són: \n",dt_text, "\n")
 
