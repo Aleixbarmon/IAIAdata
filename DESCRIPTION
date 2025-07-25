@@ -18,7 +18,7 @@ Authors@R:
   )
 Author: Aleix Barnils and Jordi Real, with contributions from Hospital de la Santa Creu i Sant Pau
 Description: The package aims to provide a tool capable of handling unstructured data.
-Depends: R (>= 4.3.0), ellmer (>= 0.1.1), dplyr (>= 1.1.4), R.utils (>= 2.12.3), stringr (>= 1.5.1)
+Depends: R (>= 4.3.0), ellmer (>= 0.1.1), dplyr (>= 1.1.4), R.utils (>= 2.12.3), stringr (>= 1.5.1), purrr (>= 1.0.2)
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
