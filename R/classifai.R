@@ -33,6 +33,7 @@
 #' @importFrom R.utils withTimeout
 #' @importFrom stats complete.cases
 #' @importFrom ellmer chat_gemini
+#' @importFrom purrr keep
 #' @export
 
 
